@@ -1,6 +1,5 @@
 ## Author
 Name: Noah Budz
-Student id: V00966850
 
 
 ## Usage
